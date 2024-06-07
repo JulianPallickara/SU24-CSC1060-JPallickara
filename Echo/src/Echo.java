@@ -24,7 +24,7 @@ public class Echo {
 		System.out.println("You like to go " + act + "? Nice, I should try that! ");
 		
 		scn.nextLine();
-		System.out.println("How much would you like to donate today? (In dollars). Shri");
+		System.out.println("How much would you like to donate today? (In dollars). ");
 		double don = scn.nextDouble();
 		System.out.print("Wow thank you! those "+ don +" dollars will really help me! Have a great day.");
 		
